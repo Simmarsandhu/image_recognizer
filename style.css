@@ -1,0 +1,45 @@
+body{
+    background-image: url("bg_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #E3BEC6;
+    color:black;
+    text-align: center;
+}
+.header{
+    font-family: 'Monoton', cursive;
+    background-image: url("white.jpg");
+    width: 70%;
+
+}
+#camera{
+    
+    border: black solid 2px;
+    height: 400px;
+    width: 350px;
+
+}
+.div_1{
+    background-image: url("white.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 70%;
+
+}
+.div_1 hr{
+    background-color: black;
+}
+button{
+    background-color: #FFE162;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    font-family:  cursive;
+
+
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+
+}
